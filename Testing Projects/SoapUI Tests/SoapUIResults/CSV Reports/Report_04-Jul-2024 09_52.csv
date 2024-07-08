@@ -1,0 +1,7 @@
+"Test Suite","Test Case","Test Step","Step Type","Step Status","Result message","Execution Date"
+"TestSuite 1","Country TestCase1","CountryName - Request 1","request","OK","","04-Jul-2024 09_52",
+"TestSuite 1","Country TestCase1","CurrencyName - Request 1","request","OK","","04-Jul-2024 09_52",
+"TestSuite 1","PropertyTransferTestCase 2","CountryISOCode - Request 1","request","OK","","04-Jul-2024 09_52",
+"TestSuite 1","PropertyTransferTestCase 2","Property Transfer","transfer","OK","Message:Performed transfer [CountryCode]
+","04-Jul-2024 09_52",
+"TestSuite 1","PropertyTransferTestCase 2","CapitalCity - Request 1","request","OK","","04-Jul-2024 09_52",
