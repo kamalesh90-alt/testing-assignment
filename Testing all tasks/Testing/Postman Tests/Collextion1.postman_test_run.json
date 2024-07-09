@@ -1,0 +1,332 @@
+{
+	"id": "19b9c364-4896-4cb8-91e1-fd2aa3751272",
+	"name": "Collextion1",
+	"timestamp": "2024-07-04T05:55:29.859Z",
+	"collection_id": "36734989-8399740b-4633-4b0a-89a5-2d86f37ea510",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 10,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2024-07-04T05:55:25.188Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "13c7f1a3-cd74-41d1-b3b7-41b411bd6c86",
+			"name": "Changepond",
+			"url": "https://www.changepond.com/",
+			"time": 844,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				844
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "a39c8bb9-8200-4d0c-b047-5dfb2f6457c2",
+			"name": "services",
+			"url": "https://www.changepond.com/services/cloud-services/",
+			"time": 185,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				185
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "1487e192-eae1-4952-9da0-968146e0feba",
+			"name": "Digital",
+			"url": "https://www.changepond.com/services/digital-customer-experience/",
+			"time": 201,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				201
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "803f839d-b851-4cf3-a06e-bda1f78f371d",
+			"name": "Engineering",
+			"url": "https://www.changepond.com/engineering-services/product-design",
+			"time": 191,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				191
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "03e7c8e6-36d9-4740-96f9-23e9f08e4dea",
+			"name": "Value analysis",
+			"url": "https://www.changepond.com/engineering-services/value-analysis",
+			"time": 189,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				189
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "a98ecc61-8b7e-4108-bf62-ddee34f36c99",
+			"name": "Customer Products",
+			"url": "https://www.changepond.com/engineering-services/consumer-products",
+			"time": 197,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				197
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "118290ae-1939-4843-8931-38ca92d8514e",
+			"name": "Resources",
+			"url": "https://www.changepond.com/engineering-services/resources/blog/",
+			"time": 231,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				231
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "51401198-718a-4d44-87de-5a9d22f01616",
+			"name": "Heavy engineering",
+			"url": "https://www.changepond.com/engineering-services/heavy-engineering",
+			"time": 190,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				190
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "e03841bd-61a5-42b4-9f20-525d4bbec891",
+			"name": "Design",
+			"url": "https://www.changepond.com/engineering-services/resources/blog/design-configurator-for-industrial-fans",
+			"time": 192,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				192
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "ac2ca269-f79d-4a08-9013-30c1e9ac27c5",
+			"name": "Engineering services",
+			"url": "https://www.changepond.com/engineering-services/heavy-engineering",
+			"time": 195,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				195
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 2615,
+	"collection": {
+		"requests": [
+			{
+				"id": "13c7f1a3-cd74-41d1-b3b7-41b411bd6c86",
+				"method": "GET"
+			},
+			{
+				"id": "a39c8bb9-8200-4d0c-b047-5dfb2f6457c2",
+				"method": "GET"
+			},
+			{
+				"id": "1487e192-eae1-4952-9da0-968146e0feba",
+				"method": "GET"
+			},
+			{
+				"id": "803f839d-b851-4cf3-a06e-bda1f78f371d",
+				"method": "GET"
+			},
+			{
+				"id": "03e7c8e6-36d9-4740-96f9-23e9f08e4dea",
+				"method": "GET"
+			},
+			{
+				"id": "a98ecc61-8b7e-4108-bf62-ddee34f36c99",
+				"method": "GET"
+			},
+			{
+				"id": "118290ae-1939-4843-8931-38ca92d8514e",
+				"method": "GET"
+			},
+			{
+				"id": "51401198-718a-4d44-87de-5a9d22f01616",
+				"method": "GET"
+			},
+			{
+				"id": "e03841bd-61a5-42b4-9f20-525d4bbec891",
+				"method": "GET"
+			},
+			{
+				"id": "ac2ca269-f79d-4a08-9013-30c1e9ac27c5",
+				"method": "GET"
+			}
+		]
+	}
+}

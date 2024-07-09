@@ -1,0 +1,225 @@
+[
+  {
+    "id": "3",
+    "city": "Delhi",
+    "image": "/images/room3.webp",
+    "info": "Luxurious suite in the heart of the city.",
+    "booked": false,
+    "price": 400
+  },
+  {
+    "id": "1",
+    "city": "Tiruvallur",
+    "image": "/images/room1.webp",
+    "info": "Comfortable apartment near Marina Beach.",
+    "booked": false,
+    "price": 2000
+  },
+  {
+    "id": "1",
+    "city": "Tiruvallur",
+    "image": "/images/room1.webp",
+    "info": "Comfortable apartment near Marina Beach.",
+    "booked": false,
+    "price": 2000
+  },
+  {
+    "id": "1",
+    "city": "Tiruvallur",
+    "image": "/images/room1.webp",
+    "info": "Comfortable apartment near Marina Beach.",
+    "booked": false,
+    "price": 2000
+  },
+  {
+    "id": "68f3",
+    "city": "dds",
+    "image": "cxc",
+    "info": "xvcx",
+    "booked": false,
+    "price": 0
+  },
+  {
+    "id": "1",
+    "city": "Tiruvallur",
+    "image": "/images/room1.webp",
+    "info": "Comfortable apartment near Marina Beach.",
+    "booked": false,
+    "price": 2000
+  },
+  {
+    "id": "2",
+    "city": "Mumbai",
+    "image": "/images/room2.jpg",
+    "info": "Spacious penthouse with a view of the sea.",
+    "booked": false,
+    "price": 3000
+  },
+  {
+    "id": "4872",
+    "city": "dds",
+    "image": "cxc",
+    "info": "xvcx",
+    "booked": false,
+    "price": 0
+  },
+  {
+    "id": "1",
+    "city": "Tiruvallur",
+    "image": "/images/room1.webp",
+    "info": "Comfortable apartment near Marina Beach.",
+    "booked": false,
+    "price": 2000
+  },
+  {
+    "id": "1",
+    "city": "Tiruvallur",
+    "image": "/images/room1.webp",
+    "info": "Comfortable apartment near Marina Beach.",
+    "booked": false,
+    "price": 2000
+  },
+  {
+    "id": "2",
+    "city": "Mumbai",
+    "image": "/images/room2.jpg",
+    "info": "Spacious penthouse with a view of the sea.",
+    "booked": false,
+    "price": 3000
+  },
+  {
+    "id": "1",
+    "city": "Tiruvallur",
+    "image": "/images/room1.webp",
+    "info": "Comfortable apartment near Marina Beach.",
+    "booked": false,
+    "price": 2000
+  },
+  {
+    "id": "2",
+    "city": "Mumbai",
+    "image": "/images/room2.jpg",
+    "info": "Spacious penthouse with a view of the sea.",
+    "booked": false,
+    "price": 3000
+  },
+  {
+    "id": "1",
+    "city": "Tiruvallur",
+    "image": "/images/room1.webp",
+    "info": "Comfortable apartment near Marina Beach.",
+    "booked": false,
+    "price": 2000
+  },
+  {
+    "id": "01f0",
+    "city": "dds",
+    "image": "cxc",
+    "info": "xvcx",
+    "price": 0
+  },
+  {
+    "id": "1",
+    "city": "Tiruvallur",
+    "image": "/images/room1.webp",
+    "info": "Comfortable apartment near Marina Beach.",
+    "booked": false,
+    "price": 2000
+  },
+  {
+    "id": "3",
+    "city": "Delhi",
+    "image": "/images/room3.webp",
+    "info": "Luxurious suite in the heart of the city.",
+    "booked": false,
+    "price": 400
+  },
+  {
+    "id": "2",
+    "city": "Mumbai",
+    "image": "/images/room2.jpg",
+    "info": "Spacious penthouse with a view of the sea.",
+    "booked": false,
+    "price": 3000
+  },
+  {
+    "id": "3",
+    "city": "Delhi",
+    "image": "/images/room3.webp",
+    "info": "Luxurious suite in the heart of the city.",
+    "booked": false,
+    "price": 400
+  },
+  {
+    "id": "2",
+    "city": "Mumbai",
+    "image": "/images/room2.jpg",
+    "info": "Spacious penthouse with a view of the sea.",
+    "booked": false,
+    "price": 3000
+  },
+  {
+    "id": "3",
+    "city": "Delhi",
+    "image": "/images/room3.webp",
+    "info": "Luxurious suite in the heart of the city.",
+    "booked": false,
+    "price": 400
+  },
+  {
+    "id": "2",
+    "city": "Mumbai",
+    "image": "/images/room2.jpg",
+    "info": "Spacious penthouse with a view of the sea.",
+    "booked": false,
+    "price": 3000
+  },
+  {
+    "id": "3",
+    "city": "Delhi",
+    "image": "/images/room3.webp",
+    "info": "Luxurious suite in the heart of the city.",
+    "booked": false,
+    "price": 400
+  },
+  {
+    "id": "1",
+    "city": "Chennai",
+    "image": "/images/room1.webp",
+    "info": "Comfortable apartment near Marina Beach.",
+    "booked": false,
+    "price": 2000
+  },
+  {
+    "id": "2",
+    "city": "Mumbai",
+    "image": "/images/room2.jpg",
+    "info": "Spacious penthouse with a view of the sea.",
+    "booked": false,
+    "price": 3000
+  },
+  {
+    "id": "82a7",
+    "city": "Mumbai",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkwn3esW5gGak_ZERXSEj_qU-6x7-0mYYvEA&s",
+    "info": "roommms",
+    "booked": false,
+    "price": "1000"
+  },
+  {
+    "id": "1ce7",
+    "city": "Chennai",
+    "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+    "info": " Room assigned to one person. May have one or more  beds.\nThe room size or area of Single Rooms is generally between 37 mÂ² to 45 mÂ²",
+    "booked": false,
+    "price": "3000"
+  },
+  {
+    "id": "7fb2",
+    "city": "Mumbai",
+    "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-1.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+    "info": " A room assigned to two people. May have one or more  beds.\nThe room size or area of Double Rooms are generally between 40 mÂ² to 45 mÂ².",
+    "booked": false,
+    "price": "3909"
+  }
+]

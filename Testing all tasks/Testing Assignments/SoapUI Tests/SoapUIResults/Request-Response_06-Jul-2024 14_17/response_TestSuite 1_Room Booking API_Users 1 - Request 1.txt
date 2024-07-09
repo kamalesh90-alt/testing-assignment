@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "user1",
+    "contact": "user1",
+    "username": "user1",
+    "email": "user1",
+    "password": "User@2k1",
+    "bookedrooms": [
+      {
+        "id": "9860",
+        "city": "Delhi",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-4.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "A room that can accommodate three persons and has been fitted with three twin beds, one double  bed and one twin  bed or two double beds.\nThe room size or area of Triple Rooms is generally between 45 mÂ² to 65 mÂ².",
+        "booked": false,
+        "price": "8379",
+        "bookeddate": "28/6/2024"
+      },
+      {
+        "id": "6a82",
+        "city": "Chennai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-4.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "A room assigned to four people. May have two or more  beds.\nThe room size or area of Quad Rooms is generally between 70 mÂ² to 85 mÂ².\n\n",
+        "booked": false,
+        "price": "9237",
+        "bookeddate": "28/6/2024"
+      },
+      {
+        "id": "247b",
+        "city": "Mumbai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-3.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "A room with a queen-sized bed. May be occupied by one or more people.\nThe room size or area of Queen Rooms is generally between 32 mÂ² to 50 mÂ².\n\n",
+        "booked": false,
+        "price": "7392",
+        "bookeddate": "28/6/2024"
+      },
+      {
+        "id": "d648",
+        "city": "Delhi",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-7.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": " A room with a king-sized bed. May be occupied by one or more people.\nThe room size or area of King Rooms is generally between 32 mÂ² to 50 mÂ².",
+        "booked": false,
+        "price": "8373",
+        "bookeddate": "28/6/2024"
+      }
+    ],
+    "booked": true,
+    "bookeddate": "28/6/2024"
+  },
+  {
+    "id": "2",
+    "name": "user2",
+    "contact": "user2",
+    "username": "user2",
+    "email": "user2",
+    "password": "User@2k1",
+    "bookedrooms": [
+      {
+        "id": "9860",
+        "city": "Delhi",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-4.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "A room that can accommodate three persons and has been fitted with three twin beds, one double  bed and one twin  bed or two double beds.\nThe room size or area of Triple Rooms is generally between 45 mÂ² to 65 mÂ².",
+        "booked": false,
+        "price": "8379",
+        "bookeddate": "28/6/2024"
+      },
+      {
+        "id": "6a82",
+        "city": "Chennai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-4.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "A room assigned to four people. May have two or more  beds.\nThe room size or area of Quad Rooms is generally between 70 mÂ² to 85 mÂ².\n\n",
+        "booked": false,
+        "price": "9237",
+        "bookeddate": "28/6/2024"
+      },
+      {
+        "id": "247b",
+        "city": "Mumbai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-3.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "A room with a queen-sized bed. May be occupied by one or more people.\nThe room size or area of Queen Rooms is generally between 32 mÂ² to 50 mÂ².\n\n",
+        "booked": false,
+        "price": "7392",
+        "bookeddate": "28/6/2024"
+      },
+      {
+        "id": "d648",
+        "city": "Delhi",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-7.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": " A room with a king-sized bed. May be occupied by one or more people.\nThe room size or area of King Rooms is generally between 32 mÂ² to 50 mÂ².",
+        "booked": false,
+        "price": "8373",
+        "bookeddate": "28/6/2024"
+      }
+    ]
+  },
+  {
+    "id": "3890",
+    "name": "samrutha",
+    "contact": "9876543210",
+    "email": "sam@gmail.com",
+    "username": "samik",
+    "password": "Samru@2k1",
+    "bookedrooms": []
+  },
+  {
+    "id": "cdff",
+    "name": "samrutha",
+    "contact": "9876543210",
+    "email": "sam@gmail.com",
+    "username": "samik",
+    "password": "Samru@2k1",
+    "bookedrooms": []
+  },
+  {
+    "id": "2710",
+    "email": "sanjai2k@gmail.com",
+    "password": "Sanjai@2"
+  },
+  {
+    "id": "7901",
+    "email": "sanjai2k@gmail.com",
+    "password": "Sanjai@2"
+  },
+  {
+    "id": "3736",
+    "email": "sanjai2k1j@gmail.",
+    "password": "Sanjai@"
+  },
+  {
+    "id": "9360",
+    "email": "sanjai2k1j@gmail.",
+    "password": "Sanjai@"
+  },
+  {
+    "id": "dea1",
+    "password": "User@2k1",
+    "bookedrooms": [],
+    "contact": "trainee",
+    "name": "user5",
+    "username": "user5"
+  }
+]
