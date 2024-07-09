@@ -1,8 +1,0 @@
-"Test Suite","Test Case","Test Step","Step Type","Step Status","Result message","Execution Date"
-"CalculatorTestSuite","TestCase 1","Calculator.asmx 1 - HomePage","restrequest","OK","","04-Jul-2024 10_05",
-"CalculatorTestSuite","TestCase 1","Calculator.asmx 1 - Add","restrequest","OK","","04-Jul-2024 10_05",
-"CalculatorTestSuite","TestCase 1","Calculator.asmx 1 - Subtract","restrequest","OK","","04-Jul-2024 10_05",
-"CalculatorTestSuite","TestCase 1","Calculator.asmx 1 - Multiply","restrequest","OK","","04-Jul-2024 10_05",
-"CalculatorTestSuite","TestCase 1","Calculator.asmx 1 - Divide","restrequest","OK","","04-Jul-2024 10_05",
-"CalculatorTestSuite","TestCase 1","Calculator.asmx 1 - AddOperation","restrequest","OK","","04-Jul-2024 10_05",
-"CalculatorTestSuite","TestCase 1","Properties","properties","OK","","04-Jul-2024 10_05",
